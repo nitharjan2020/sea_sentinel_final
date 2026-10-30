@@ -1,0 +1,7 @@
+method,window_sources,events,detected,sensitivity,chance_hit_rate
+negbin,WOAH-sourced,98,48,0.4898,0.1552
+negbin,no records,2,0,0.0,0.1467
+negbin,other sources only,24,9,0.375,0.1838
+rolling,WOAH-sourced,98,54,0.551,0.1383
+rolling,no records,2,0,0.0,0.1309
+rolling,other sources only,24,10,0.4167,0.1514

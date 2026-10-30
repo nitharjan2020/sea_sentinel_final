@@ -1,0 +1,16 @@
+iso3,disease,as_of,priority,points,confidence,national_alarm,province_alarm,reporting_backlog,rising_forecast,wild_birds,reported_last4,nowcast_last4,forecast_next4,usual_4wk,population_head,batch_reporting,reasons,notes
+PHL,ASF,2026-10-12,High,2,low,True,True,False,False,False,0.0,25.78,24.72,32.0,9566230.0,True,"national alarm (rolling; latest week of 10 Aug 2026); province alarm (Region V (Bicol region), week of 10 Aug 2026)",about 26 outbreaks in the last 4 weeks not yet reported (0 so far): not counted (batch reporting)
+VNM,HPAI,2026-10-12,High,2,normal,True,True,False,False,False,4.0,4.53,5.36,8.15,569218000.0,False,"national alarm (rolling + NB; latest week of 27 Jul 2026); province alarm (Nam Dinh, week of 27 Jul 2026)",
+IDN,HPAI,2026-10-12,Medium,1,low,True,False,False,False,False,0.0,1.63,2.47,2.46,3753167000.0,True,national alarm (NB; latest week of 27 Jul 2026),
+LAO,ASF,2026-10-12,Medium,1,low,True,False,False,False,False,0.0,12.24,15.67,0.69,4767000.0,True,national alarm (rolling + NB; latest week of 31 Aug 2026),about 12 outbreaks in the last 4 weeks not yet reported (0 so far): not counted (batch reporting); 4-week forecast 15.7 vs usual 0.7: not counted (batch reporting)
+PHL,HPAI,2026-10-12,Medium,1,low,False,False,False,False,True,0.0,2.45,1.9,4.92,214854000.0,True,"HPAI in wild birds (2 events, latest 09 Jun 2026)",
+THA,ASF,2026-10-12,Medium,1,normal,True,False,False,False,False,0.0,0.14,0.77,0.0,7867214.0,False,national alarm (rolling + NB; latest week of 24 Aug 2026),
+VNM,ASF,2026-10-12,Medium,1,normal,False,True,False,False,False,36.0,37.9,29.07,76.38,26519409.0,False,"province alarm (Bac Kan, week of 27 Jul 2026)",
+IDN,ASF,2026-10-12,Low,0,low,False,False,False,False,False,0.0,0.28,,5.14,5767595.0,True,,
+KHM,HPAI,2026-10-12,Low,0,normal,False,False,False,False,False,2.0,2.19,1.1,1.23,21807000.0,False,,
+LAO,HPAI,2026-10-12,Low,0,low,False,False,False,False,False,,,,,58632000.0,False,,no reports in the nowcast window (inactive series)
+MMR,ASF,2026-10-12,Low,0,low,False,False,False,False,False,,,,,7800000.0,False,,no reports in the nowcast window (inactive series)
+MMR,HPAI,2026-10-12,Low,0,low,False,False,False,False,False,,,,,152357000.0,False,,no reports in the nowcast window (inactive series)
+MYS,ASF,2026-10-12,Low,0,normal,False,False,False,False,False,0.0,0.79,0.71,0.78,1234242.0,False,,
+MYS,HPAI,2026-10-12,Low,0,low,False,False,False,False,False,,,,,335608000.0,False,,no reports in the nowcast window (inactive series)
+THA,HPAI,2026-10-12,Low,0,low,False,False,False,False,False,,,,,311749000.0,False,,no reports in the nowcast window (inactive series)

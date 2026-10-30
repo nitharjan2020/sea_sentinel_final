@@ -1,0 +1,19 @@
+iso3,item,census_year,census_head,census_source,faostat_head,faostat_flag,ratio
+IDN,chickens,2019,1474592337.0,"Badan Pusat Statistik, Republik Indonesia",3808057000.0,A,0.3872295863743636
+KHM,chickens,2017,21501381.0,"General Directorate of Animal Health and Production - Ministry of Agriculture, Forestry and Fisheries, Cambodia",13203000.0,I,1.6285223812769825
+LAO,chickens,2009,16047773.0,"Department of Livestock and Fisheries, Laos",22529000.0,A,0.712316259043899
+MMR,chickens,2011,171724243.0,"Livestock Breeding and Veterinary Department (LBVD), Ministry of Livestock Breeding and Fisheries, Yangon,Myanmar",176839000.0,A,0.9710767590859483
+MYS,chickens,2012,251157340.0,"Department of Statistics, Malaysia (Jabatan Perangkaan Malaysia)",251157000.0,A,1.0000013537349148
+PHL,chickens,2006,134115530.0,"Bureau of Animal Industry, Philippines",134332000.0,A,0.998388544799452
+THA,chickens,2004,191375293.0,"Department of Livestock Development, Ministry of Agriculture and Cooperatives, Thailand",250955000.0,A,0.762588085513339
+TLS,chickens,2019,1149390.0,"Statistics Timor-Leste, General Directorate of Statistics",1146000.0,A,1.002958115183246
+VNM,chickens,2011,281951107.0,General Statistics Office of Vietnam,225820000.0,A,1.2485657027721193
+IDN,swine_pigs,2017,6832658.0,"Badan Pusat Statistik, Republik Indonesia",8260995.0,A,0.8270986727385745
+KHM,swine_pigs,2017,2331535.0,"General Directorate of Animal Health and Production - Ministry of Agriculture, Forestry and Fisheries, Cambodia",2173258.0,I,1.072829364944245
+LAO,swine_pigs,2017,3932073.0,"Department of Livestock and Fisheries, Laos",3869000.0,A,1.0163021452571723
+MMR,swine_pigs,2011,10248983.0,"Livestock Breeding and Veterinary Department (LBVD), Ministry of Livestock Breeding and Fisheries, Yangon,Myanmar",10497493.0,A,0.976326728677028
+MYS,swine_pigs,2015,1849490.0,World Organisation for Animal Health - OIE,1886823.0,A,0.9802138303380868
+PHL,swine_pigs,2010,12325686.0,Bureau of Agricultural Statistics (BAS),13397800.0,A,0.9199783546552419
+THA,swine_pigs,2010,8343228.0,"Department of Livestock Development, Ministry of Agriculture and Cooperatives, Thailand",7623730.0,A,1.0943761124803737
+TLS,swine_pigs,2015,419169.0,"Statistics Timor-Leste, General Directorate of Statistics",419169.0,A,1.0
+VNM,swine_pigs,2009,21786059.0,General Statistics Office of Vietnam,27627700.0,A,0.7885585481238033

@@ -1,0 +1,13 @@
+input,horizon,series,crps,mae,coverage80,crps_vs_finalized
+as_reported,1,9,2.5088,2.905,0.8344,0.9888
+as_reported,2,9,2.8353,3.2195,0.7697,1.1493
+as_reported,3,9,2.3402,2.71,0.7981,1.0104
+as_reported,4,9,2.6825,3.0216,0.8046,1.0374
+finalized,1,9,1.5591,2.1303,0.9155,1.0
+finalized,2,9,1.7706,2.2464,0.8719,1.0
+finalized,3,9,1.576,2.1517,0.8944,1.0
+finalized,4,9,1.8535,2.4271,0.8979,1.0
+nowcast_adjusted,1,9,2.1243,2.776,0.8645,1.295
+nowcast_adjusted,2,9,2.3428,2.9642,0.8148,1.1738
+nowcast_adjusted,3,9,1.9569,2.4968,0.8493,1.3066
+nowcast_adjusted,4,9,2.2958,2.8685,0.8497,1.2386

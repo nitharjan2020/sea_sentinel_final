@@ -1,0 +1,3 @@
+method,level,alarm_rate,alarms_per_year,alarm_rate_outside_events,wahis_events,wahis_event_sensitivity,wahis_chance_hit_rate,sim_sensitivity_k2,sim_sensitivity_k3,sim_sensitivity_k5,sim_sensitivity_k10,sim_weeks_to_detect_k5,default,offset
+negbin,0.99,0.0389,2.0295,0.0298,124,0.4597,0.1606,0.52,0.596,0.7303,0.8939,0.0333,True,with offset
+negbin,0.99,0.0386,2.0166,0.0298,124,0.4597,0.164,0.5187,0.5927,0.7324,0.8942,0.2,True,without offset

@@ -1,0 +1,13 @@
+disease,method,input,final_alarms,flagged_within_0,flagged_within_1,flagged_within_4,flagged_within_12,median_weeks_to_flag,realtime_alarms,share_confirmed
+all,negbin,as_reported,94,0.3404,0.4574,0.6383,0.7979,2.0,77,0.974
+all,negbin,nowcast_adjusted,94,0.3936,0.5319,0.7128,0.8723,1.0,158,0.519
+all,rolling,as_reported,70,0.3286,0.4857,0.6714,0.8286,2.0,63,0.9206
+all,rolling,nowcast_adjusted,70,0.3857,0.5143,0.7,0.8429,1.0,102,0.5784
+ASF,negbin,as_reported,44,0.4773,0.5455,0.5682,0.6364,1.0,29,0.9655
+ASF,negbin,nowcast_adjusted,44,0.5227,0.5909,0.6818,0.7955,0.0,75,0.4667
+ASF,rolling,as_reported,38,0.3947,0.4737,0.5789,0.7368,2.0,30,0.9333
+ASF,rolling,nowcast_adjusted,38,0.4474,0.5263,0.6053,0.7632,1.0,42,0.6905
+HPAI,negbin,as_reported,50,0.22,0.38,0.7,0.94,2.0,48,0.9792
+HPAI,negbin,nowcast_adjusted,50,0.28,0.48,0.74,0.94,2.0,83,0.5663
+HPAI,rolling,as_reported,32,0.25,0.5,0.7812,0.9375,1.5,33,0.9091
+HPAI,rolling,nowcast_adjusted,32,0.3125,0.5,0.8125,0.9375,1.5,60,0.5

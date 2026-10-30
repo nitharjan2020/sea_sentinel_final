@@ -1,0 +1,4 @@
+iso3,disease,week,method,admin1,unit_outbreaks,score,cut_off
+PHL,ASF,2026-08-10,negbin,Region V (Bicol region),7.0,10.1038,7.0107
+VNM,ASF,2026-07-27,negbin,Bac Kan,7.0,8.1325,7.0107
+VNM,HPAI,2026-07-27,rolling,Nam Dinh,3.0,15.2512,14.2835

@@ -1,0 +1,8 @@
+# Pinned environment used to produce the current outputs (Python 3.13).
+matplotlib==3.11.2
+numpy==2.5.4
+openpyxl==3.1.5
+pandas==3.1.0
+pytest==9.1.1
+scipy==1.18.1
+statsmodels==0.15.0

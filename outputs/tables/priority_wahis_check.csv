@@ -1,0 +1,5 @@
+iso3,disease,event_id,reason,event_start_date,priority,points
+KHM,HPAI,7875,Recurrence of an eradicated disease,2026-09-20,Low,0
+LAO,ASF,7799,Recurrence of an eradicated disease,2026-06-30,Medium,1
+PHL,HPAI,7687,First occurrence in a zone or a compartment,2026-05-01,Medium,1
+KHM,HPAI,7520,Recurrence of an eradicated disease,2026-04-21,Low,0

@@ -1,0 +1,951 @@
+iso3,year,item,head_count,flag,flag_description
+BRN,2000,chickens,9618000.0,A,Official value
+BRN,2001,chickens,10973000.0,A,Official value
+BRN,2002,chickens,10043000.0,A,Official value
+BRN,2003,chickens,11442000.0,A,Official value
+BRN,2004,chickens,12812000.0,A,Official value
+BRN,2005,chickens,11480000.0,A,Official value
+BRN,2006,chickens,13045000.0,A,Official value
+BRN,2007,chickens,14049000.0,A,Official value
+BRN,2008,chickens,14210000.0,A,Official value
+BRN,2009,chickens,14071000.0,A,Official value
+BRN,2010,chickens,14910000.0,A,Official value
+BRN,2011,chickens,14447000.0,A,Official value
+BRN,2012,chickens,17084000.0,A,Official value
+BRN,2013,chickens,19000000.0,E,Estimated value
+BRN,2014,chickens,17022000.0,A,Official value
+BRN,2015,chickens,17044000.0,A,Official value
+BRN,2016,chickens,17499000.0,A,Official value
+BRN,2017,chickens,17051000.0,A,Official value
+BRN,2018,chickens,18397000.0,A,Official value
+BRN,2019,chickens,16983000.0,A,Official value
+BRN,2020,chickens,19437000.0,A,Official value
+BRN,2021,chickens,21596000.0,A,Official value
+BRN,2022,chickens,21416000.0,A,Official value
+BRN,2023,chickens,21131000.0,A,Official value
+BRN,2024,chickens,21381000.0,A,Official value
+BRN,2000,ducks,50000.0,E,Estimated value
+BRN,2001,ducks,60000.0,E,Estimated value
+BRN,2002,ducks,70000.0,E,Estimated value
+BRN,2003,ducks,100000.0,E,Estimated value
+BRN,2004,ducks,150000.0,E,Estimated value
+BRN,2005,ducks,170000.0,E,Estimated value
+BRN,2006,ducks,200000.0,E,Estimated value
+BRN,2007,ducks,220000.0,E,Estimated value
+BRN,2008,ducks,220000.0,E,Estimated value
+BRN,2009,ducks,220000.0,E,Estimated value
+BRN,2010,ducks,220000.0,E,Estimated value
+BRN,2011,ducks,225000.0,E,Estimated value
+BRN,2012,ducks,228000.0,E,Estimated value
+BRN,2013,ducks,230000.0,E,Estimated value
+BRN,2014,ducks,230000.0,E,Estimated value
+BRN,2015,ducks,230000.0,I,Value imputed by a receiving agency
+BRN,2016,ducks,229000.0,I,Value imputed by a receiving agency
+BRN,2017,ducks,229000.0,I,Value imputed by a receiving agency
+BRN,2018,ducks,228000.0,I,Value imputed by a receiving agency
+BRN,2019,ducks,228000.0,I,Value imputed by a receiving agency
+BRN,2020,ducks,228000.0,I,Value imputed by a receiving agency
+BRN,2021,ducks,226000.0,I,Value imputed by a receiving agency
+BRN,2022,ducks,225000.0,I,Value imputed by a receiving agency
+BRN,2023,ducks,225000.0,I,Value imputed by a receiving agency
+BRN,2024,ducks,224000.0,I,Value imputed by a receiving agency
+BRN,2000,swine_pigs,1200.0,E,Estimated value
+BRN,2001,swine_pigs,1200.0,E,Estimated value
+BRN,2002,swine_pigs,1100.0,E,Estimated value
+BRN,2003,swine_pigs,1200.0,E,Estimated value
+BRN,2004,swine_pigs,1000.0,E,Estimated value
+BRN,2005,swine_pigs,1000.0,E,Estimated value
+BRN,2006,swine_pigs,1300.0,E,Estimated value
+BRN,2007,swine_pigs,1300.0,E,Estimated value
+BRN,2008,swine_pigs,1300.0,E,Estimated value
+BRN,2009,swine_pigs,1250.0,E,Estimated value
+BRN,2010,swine_pigs,1200.0,E,Estimated value
+BRN,2011,swine_pigs,1150.0,E,Estimated value
+BRN,2012,swine_pigs,1100.0,E,Estimated value
+BRN,2013,swine_pigs,1225.0,E,Estimated value
+BRN,2014,swine_pigs,1300.0,E,Estimated value
+BRN,2015,swine_pigs,1284.0,I,Value imputed by a receiving agency
+BRN,2016,swine_pigs,1300.0,E,Estimated value
+BRN,2017,swine_pigs,1300.0,E,Estimated value
+BRN,2018,swine_pigs,1258.0,I,Value imputed by a receiving agency
+BRN,2019,swine_pigs,1265.0,E,Estimated value
+BRN,2020,swine_pigs,1255.0,E,Estimated value
+BRN,2021,swine_pigs,1082.0,E,Estimated value
+BRN,2022,swine_pigs,900.0,E,Estimated value
+BRN,2023,swine_pigs,729.0,E,Estimated value
+BRN,2024,swine_pigs,553.0,E,Estimated value
+IDN,2000,chickens,859497000.0,A,Official value
+IDN,2001,chickens,960164000.0,A,Official value
+IDN,2002,chickens,1218406000.0,A,Official value
+IDN,2003,chickens,1204310000.0,A,Official value
+IDN,2004,chickens,1149374000.0,A,Official value
+IDN,2005,chickens,1174933000.0,A,Official value
+IDN,2006,chickens,1188814000.0,A,Official value
+IDN,2007,chickens,1275400000.0,A,Official value
+IDN,2008,chickens,1253431000.0,A,Official value
+IDN,2009,chickens,1387760000.0,A,Official value
+IDN,2010,chickens,1349626000.0,A,Official value
+IDN,2011,chickens,1566967000.0,A,Official value
+IDN,2012,chickens,1657684000.0,A,Official value
+IDN,2013,chickens,1793022000.0,A,Official value
+IDN,2014,chickens,1865126000.0,A,Official value
+IDN,2015,chickens,1968641000.0,A,Official value
+IDN,2016,chickens,2088079000.0,A,Official value
+IDN,2017,chickens,3481181000.0,A,Official value
+IDN,2018,chickens,3700618000.0,A,Official value
+IDN,2019,chickens,3808057000.0,A,Official value
+IDN,2020,chickens,3570142000.0,A,Official value
+IDN,2021,chickens,3195600000.0,A,Official value
+IDN,2022,chickens,3482427000.0,A,Official value
+IDN,2023,chickens,3698598000.0,A,Official value
+IDN,2024,chickens,3709617000.0,A,Official value
+IDN,2000,ducks,29035000.0,A,Official value
+IDN,2001,ducks,32068000.0,A,Official value
+IDN,2002,ducks,46001000.0,A,Official value
+IDN,2003,ducks,33863000.0,A,Official value
+IDN,2004,ducks,32573000.0,A,Official value
+IDN,2005,ducks,32405000.0,A,Official value
+IDN,2006,ducks,32481000.0,A,Official value
+IDN,2007,ducks,35867000.0,A,Official value
+IDN,2008,ducks,39840000.0,A,Official value
+IDN,2009,ducks,42367000.0,A,Official value
+IDN,2010,ducks,44302000.0,A,Official value
+IDN,2011,ducks,43488000.0,A,Official value
+IDN,2012,ducks,49295000.0,A,Official value
+IDN,2013,ducks,50931000.0,A,Official value
+IDN,2014,ducks,45268000.0,A,Official value
+IDN,2015,ducks,45322000.0,A,Official value
+IDN,2016,ducks,47424000.0,A,Official value
+IDN,2017,ducks,57557000.0,A,Official value
+IDN,2018,ducks,59552000.0,A,Official value
+IDN,2019,ducks,57229000.0,A,Official value
+IDN,2020,ducks,56570000.0,A,Official value
+IDN,2021,ducks,56570000.0,A,Official value
+IDN,2022,ducks,58352000.0,A,Official value
+IDN,2023,ducks,33437000.0,A,Official value
+IDN,2024,ducks,43550000.0,A,Official value
+IDN,2000,swine_pigs,5356834.0,A,Official value
+IDN,2001,swine_pigs,5369325.0,A,Official value
+IDN,2002,swine_pigs,5926807.0,A,Official value
+IDN,2003,swine_pigs,6150535.0,A,Official value
+IDN,2004,swine_pigs,5980148.0,A,Official value
+IDN,2005,swine_pigs,6800698.0,A,Official value
+IDN,2006,swine_pigs,6218202.0,A,Official value
+IDN,2007,swine_pigs,6710758.0,A,Official value
+IDN,2008,swine_pigs,6837528.0,A,Official value
+IDN,2009,swine_pigs,6974732.0,A,Official value
+IDN,2010,swine_pigs,7476665.0,A,Official value
+IDN,2011,swine_pigs,7524787.0,A,Official value
+IDN,2012,swine_pigs,7900363.0,A,Official value
+IDN,2013,swine_pigs,7598694.0,A,Official value
+IDN,2014,swine_pigs,7694130.0,A,Official value
+IDN,2015,swine_pigs,7808087.0,A,Official value
+IDN,2016,swine_pigs,7903450.0,A,Official value
+IDN,2017,swine_pigs,8260995.0,A,Official value
+IDN,2018,swine_pigs,8254108.0,A,Official value
+IDN,2019,swine_pigs,8541761.0,A,Official value
+IDN,2020,swine_pigs,7622724.0,A,Official value
+IDN,2021,swine_pigs,7178088.0,A,Official value
+IDN,2022,swine_pigs,6748614.0,A,Official value
+IDN,2023,swine_pigs,6319818.0,I,Value imputed by a receiving agency
+IDN,2024,swine_pigs,5767595.0,I,Value imputed by a receiving agency
+KHM,2000,chickens,15249000.0,A,Official value
+KHM,2001,chickens,15248000.0,A,Official value
+KHM,2002,chickens,16678000.0,A,Official value
+KHM,2003,chickens,16014000.0,A,Official value
+KHM,2004,chickens,16034000.0,A,Official value
+KHM,2005,chickens,15086000.0,A,Official value
+KHM,2006,chickens,15136000.0,A,Official value
+KHM,2007,chickens,15825000.0,A,Official value
+KHM,2008,chickens,16928000.0,A,Official value
+KHM,2009,chickens,20193000.0,A,Official value
+KHM,2010,chickens,17448000.0,A,Official value
+KHM,2011,chickens,16341000.0,A,Official value
+KHM,2012,chickens,14447000.0,A,Official value
+KHM,2013,chickens,13000000.0,E,Estimated value
+KHM,2014,chickens,13000000.0,E,Estimated value
+KHM,2015,chickens,13000000.0,E,Estimated value
+KHM,2016,chickens,13124000.0,I,Value imputed by a receiving agency
+KHM,2017,chickens,13203000.0,I,Value imputed by a receiving agency
+KHM,2018,chickens,13200000.0,E,Estimated value
+KHM,2019,chickens,13283000.0,I,Value imputed by a receiving agency
+KHM,2020,chickens,13352000.0,I,Value imputed by a receiving agency
+KHM,2021,chickens,13211000.0,I,Value imputed by a receiving agency
+KHM,2022,chickens,13095000.0,I,Value imputed by a receiving agency
+KHM,2023,chickens,13045000.0,I,Value imputed by a receiving agency
+KHM,2024,chickens,12995000.0,I,Value imputed by a receiving agency
+KHM,2000,ducks,5500000.0,E,Estimated value
+KHM,2001,ducks,6000000.0,E,Estimated value
+KHM,2002,ducks,6300000.0,E,Estimated value
+KHM,2003,ducks,7000000.0,E,Estimated value
+KHM,2004,ducks,7000000.0,E,Estimated value
+KHM,2005,ducks,7500000.0,E,Estimated value
+KHM,2006,ducks,7000000.0,E,Estimated value
+KHM,2007,ducks,7000000.0,E,Estimated value
+KHM,2008,ducks,7000000.0,E,Estimated value
+KHM,2009,ducks,7000000.0,E,Estimated value
+KHM,2010,ducks,7500000.0,E,Estimated value
+KHM,2011,ducks,8000000.0,E,Estimated value
+KHM,2012,ducks,8200000.0,E,Estimated value
+KHM,2013,ducks,8300000.0,E,Estimated value
+KHM,2014,ducks,8300000.0,E,Estimated value
+KHM,2015,ducks,8300000.0,E,Estimated value
+KHM,2016,ducks,8356000.0,I,Value imputed by a receiving agency
+KHM,2017,ducks,8451000.0,I,Value imputed by a receiving agency
+KHM,2018,ducks,8549000.0,I,Value imputed by a receiving agency
+KHM,2019,ducks,8651000.0,I,Value imputed by a receiving agency
+KHM,2020,ducks,8728000.0,I,Value imputed by a receiving agency
+KHM,2021,ducks,8698000.0,I,Value imputed by a receiving agency
+KHM,2022,ducks,8728000.0,I,Value imputed by a receiving agency
+KHM,2023,ducks,8770000.0,I,Value imputed by a receiving agency
+KHM,2024,ducks,8812000.0,I,Value imputed by a receiving agency
+KHM,2000,swine_pigs,1933930.0,A,Official value
+KHM,2001,swine_pigs,2114524.0,A,Official value
+KHM,2002,swine_pigs,2105435.0,A,Official value
+KHM,2003,swine_pigs,2304248.0,A,Official value
+KHM,2004,swine_pigs,2428566.0,A,Official value
+KHM,2005,swine_pigs,2688612.0,A,Official value
+KHM,2006,swine_pigs,2740745.0,A,Official value
+KHM,2007,swine_pigs,2389389.0,A,Official value
+KHM,2008,swine_pigs,2215641.0,A,Official value
+KHM,2009,swine_pigs,2126304.0,A,Official value
+KHM,2010,swine_pigs,2057431.0,A,Official value
+KHM,2011,swine_pigs,2099332.0,A,Official value
+KHM,2012,swine_pigs,2120000.0,E,Estimated value
+KHM,2013,swine_pigs,2150000.0,E,Estimated value
+KHM,2014,swine_pigs,2180000.0,E,Estimated value
+KHM,2015,swine_pigs,2180000.0,E,Estimated value
+KHM,2016,swine_pigs,2171339.0,I,Value imputed by a receiving agency
+KHM,2017,swine_pigs,2173258.0,I,Value imputed by a receiving agency
+KHM,2018,swine_pigs,2178851.0,I,Value imputed by a receiving agency
+KHM,2019,swine_pigs,2183613.0,I,Value imputed by a receiving agency
+KHM,2020,swine_pigs,2186911.0,I,Value imputed by a receiving agency
+KHM,2021,swine_pigs,2068735.0,I,Value imputed by a receiving agency
+KHM,2022,swine_pigs,2110539.0,E,Estimated value
+KHM,2023,swine_pigs,2062405.0,E,Estimated value
+KHM,2024,swine_pigs,2014037.0,E,Estimated value
+LAO,2000,chickens,13095000.0,A,Official value
+LAO,2001,chickens,14063000.0,A,Official value
+LAO,2002,chickens,18321000.0,A,Official value
+LAO,2003,chickens,19474000.0,A,Official value
+LAO,2004,chickens,19591000.0,A,Official value
+LAO,2005,chickens,19801000.0,A,Official value
+LAO,2006,chickens,20803000.0,A,Official value
+LAO,2007,chickens,20453000.0,A,Official value
+LAO,2008,chickens,21214000.0,A,Official value
+LAO,2009,chickens,22529000.0,A,Official value
+LAO,2010,chickens,25105000.0,A,Official value
+LAO,2011,chickens,26852000.0,A,Official value
+LAO,2012,chickens,28779000.0,A,Official value
+LAO,2013,chickens,30727000.0,A,Official value
+LAO,2014,chickens,32408000.0,A,Official value
+LAO,2015,chickens,34422000.0,A,Official value
+LAO,2016,chickens,35150000.0,A,Official value
+LAO,2017,chickens,36960000.0,A,Official value
+LAO,2018,chickens,39218000.0,A,Official value
+LAO,2019,chickens,43600000.0,A,Official value
+LAO,2020,chickens,46624000.0,A,Official value
+LAO,2021,chickens,48052000.0,A,Official value
+LAO,2022,chickens,50118000.0,A,Official value
+LAO,2023,chickens,51973000.0,A,Official value
+LAO,2024,chickens,54773000.0,A,Official value
+LAO,2000,ducks,1700000.0,E,Estimated value
+LAO,2001,ducks,1700000.0,E,Estimated value
+LAO,2002,ducks,1700000.0,E,Estimated value
+LAO,2003,ducks,2600000.0,E,Estimated value
+LAO,2004,ducks,3000000.0,E,Estimated value
+LAO,2005,ducks,3200000.0,E,Estimated value
+LAO,2006,ducks,3200000.0,E,Estimated value
+LAO,2007,ducks,3200000.0,E,Estimated value
+LAO,2008,ducks,3200000.0,E,Estimated value
+LAO,2009,ducks,3300000.0,E,Estimated value
+LAO,2010,ducks,3200000.0,E,Estimated value
+LAO,2011,ducks,3350000.0,E,Estimated value
+LAO,2012,ducks,3400000.0,E,Estimated value
+LAO,2013,ducks,3450000.0,E,Estimated value
+LAO,2014,ducks,3500000.0,E,Estimated value
+LAO,2015,ducks,3533000.0,I,Value imputed by a receiving agency
+LAO,2016,ducks,3558000.0,I,Value imputed by a receiving agency
+LAO,2017,ducks,3575000.0,I,Value imputed by a receiving agency
+LAO,2018,ducks,3585000.0,I,Value imputed by a receiving agency
+LAO,2019,ducks,3594000.0,I,Value imputed by a receiving agency
+LAO,2020,ducks,3601000.0,I,Value imputed by a receiving agency
+LAO,2021,ducks,3672000.0,I,Value imputed by a receiving agency
+LAO,2022,ducks,3694000.0,I,Value imputed by a receiving agency
+LAO,2023,ducks,3719000.0,I,Value imputed by a receiving agency
+LAO,2024,ducks,3743000.0,I,Value imputed by a receiving agency
+LAO,2000,geese,90000.0,E,Estimated value
+LAO,2001,geese,93000.0,E,Estimated value
+LAO,2002,geese,95000.0,E,Estimated value
+LAO,2003,geese,100000.0,E,Estimated value
+LAO,2004,geese,100000.0,E,Estimated value
+LAO,2005,geese,100000.0,E,Estimated value
+LAO,2006,geese,100000.0,E,Estimated value
+LAO,2007,geese,100000.0,E,Estimated value
+LAO,2008,geese,100000.0,E,Estimated value
+LAO,2009,geese,110000.0,E,Estimated value
+LAO,2010,geese,100000.0,E,Estimated value
+LAO,2011,geese,105000.0,E,Estimated value
+LAO,2012,geese,105000.0,E,Estimated value
+LAO,2013,geese,106000.0,E,Estimated value
+LAO,2014,geese,106000.0,E,Estimated value
+LAO,2015,geese,108000.0,I,Value imputed by a receiving agency
+LAO,2016,geese,109000.0,I,Value imputed by a receiving agency
+LAO,2017,geese,110000.0,I,Value imputed by a receiving agency
+LAO,2018,geese,111000.0,I,Value imputed by a receiving agency
+LAO,2019,geese,112000.0,I,Value imputed by a receiving agency
+LAO,2020,geese,113000.0,I,Value imputed by a receiving agency
+LAO,2021,geese,115000.0,I,Value imputed by a receiving agency
+LAO,2022,geese,115000.0,I,Value imputed by a receiving agency
+LAO,2023,geese,115000.0,I,Value imputed by a receiving agency
+LAO,2024,geese,116000.0,I,Value imputed by a receiving agency
+LAO,2000,swine_pigs,1446000.0,A,Official value
+LAO,2001,swine_pigs,1425900.0,A,Official value
+LAO,2002,swine_pigs,1608000.0,A,Official value
+LAO,2003,swine_pigs,1655000.0,A,Official value
+LAO,2004,swine_pigs,1727000.0,A,Official value
+LAO,2005,swine_pigs,1826000.0,A,Official value
+LAO,2006,swine_pigs,2033000.0,A,Official value
+LAO,2007,swine_pigs,2186000.0,A,Official value
+LAO,2008,swine_pigs,2359000.0,A,Official value
+LAO,2009,swine_pigs,2554000.0,A,Official value
+LAO,2010,swine_pigs,2752000.0,A,Official value
+LAO,2011,swine_pigs,2650000.0,A,Official value
+LAO,2012,swine_pigs,2794000.0,A,Official value
+LAO,2013,swine_pigs,2948000.0,A,Official value
+LAO,2014,swine_pigs,3122000.0,A,Official value
+LAO,2015,swine_pigs,3258000.0,A,Official value
+LAO,2016,swine_pigs,3700000.0,A,Official value
+LAO,2017,swine_pigs,3869000.0,A,Official value
+LAO,2018,swine_pigs,3824663.0,A,Official value
+LAO,2019,swine_pigs,4115000.0,A,Official value
+LAO,2020,swine_pigs,4298000.0,A,Official value
+LAO,2021,swine_pigs,4300000.0,A,Official value
+LAO,2022,swine_pigs,4408000.0,A,Official value
+LAO,2023,swine_pigs,4540000.0,A,Official value
+LAO,2024,swine_pigs,4767000.0,A,Official value
+MMR,2000,chickens,44755000.0,A,Official value
+MMR,2001,chickens,55080000.0,A,Official value
+MMR,2002,chickens,61972000.0,A,Official value
+MMR,2003,chickens,62986000.0,A,Official value
+MMR,2004,chickens,71274000.0,A,Official value
+MMR,2005,chickens,81518000.0,A,Official value
+MMR,2006,chickens,93737000.0,A,Official value
+MMR,2007,chickens,107771000.0,A,Official value
+MMR,2008,chickens,122038000.0,A,Official value
+MMR,2009,chickens,138938000.0,A,Official value
+MMR,2010,chickens,156407000.0,A,Official value
+MMR,2011,chickens,176839000.0,A,Official value
+MMR,2012,chickens,196641000.0,A,Official value
+MMR,2013,chickens,219377000.0,A,Official value
+MMR,2014,chickens,258194000.0,A,Official value
+MMR,2015,chickens,318530000.0,A,Official value
+MMR,2016,chickens,296267000.0,A,Official value
+MMR,2017,chickens,349171000.0,A,Official value
+MMR,2018,chickens,76565000.0,A,Official value
+MMR,2019,chickens,86837000.0,A,Official value
+MMR,2020,chickens,98089000.0,A,Official value
+MMR,2021,chickens,117243000.0,A,Official value
+MMR,2022,chickens,133911000.0,A,Official value
+MMR,2023,chickens,135000000.0,E,Estimated value
+MMR,2024,chickens,135000000.0,E,Estimated value
+MMR,2000,ducks,6556000.0,A,Official value
+MMR,2001,ducks,7026000.0,A,Official value
+MMR,2002,ducks,7483000.0,A,Official value
+MMR,2003,ducks,7683000.0,A,Official value
+MMR,2004,ducks,8393000.0,A,Official value
+MMR,2005,ducks,9112000.0,A,Official value
+MMR,2006,ducks,10098000.0,A,Official value
+MMR,2007,ducks,11144000.0,A,Official value
+MMR,2008,ducks,12248000.0,A,Official value
+MMR,2009,ducks,12835000.0,A,Official value
+MMR,2010,ducks,14051000.0,A,Official value
+MMR,2011,ducks,15507000.0,A,Official value
+MMR,2012,ducks,16941000.0,A,Official value
+MMR,2013,ducks,18442000.0,A,Official value
+MMR,2014,ducks,20128000.0,A,Official value
+MMR,2015,ducks,23662000.0,A,Official value
+MMR,2016,ducks,23636000.0,A,Official value
+MMR,2017,ducks,27389000.0,A,Official value
+MMR,2018,ducks,7304000.0,A,Official value
+MMR,2019,ducks,7983000.0,A,Official value
+MMR,2020,ducks,8743000.0,A,Official value
+MMR,2021,ducks,10001000.0,A,Official value
+MMR,2022,ducks,11487000.0,A,Official value
+MMR,2023,ducks,11500000.0,E,Estimated value
+MMR,2024,ducks,11500000.0,E,Estimated value
+MMR,2000,geese,520000.0,E,Estimated value
+MMR,2001,geese,560000.0,E,Estimated value
+MMR,2002,geese,600000.0,E,Estimated value
+MMR,2003,geese,720000.0,E,Estimated value
+MMR,2004,geese,800000.0,E,Estimated value
+MMR,2005,geese,980000.0,E,Estimated value
+MMR,2006,geese,1050000.0,E,Estimated value
+MMR,2007,geese,1300000.0,E,Estimated value
+MMR,2008,geese,1540000.0,A,Official value
+MMR,2009,geese,1565000.0,A,Official value
+MMR,2010,geese,1751000.0,A,Official value
+MMR,2011,geese,1966000.0,A,Official value
+MMR,2012,geese,2182000.0,A,Official value
+MMR,2013,geese,2441000.0,A,Official value
+MMR,2014,geese,2735000.0,A,Official value
+MMR,2015,geese,3466000.0,A,Official value
+MMR,2016,geese,3455000.0,A,Official value
+MMR,2017,geese,4267000.0,A,Official value
+MMR,2018,geese,4498000.0,A,Official value
+MMR,2019,geese,4590000.0,A,Official value
+MMR,2020,geese,4688000.0,A,Official value
+MMR,2021,geese,4841000.0,A,Official value
+MMR,2022,geese,4908000.0,A,Official value
+MMR,2023,geese,5067000.0,I,Value imputed by a receiving agency
+MMR,2024,geese,5857000.0,I,Value imputed by a receiving agency
+MMR,2000,swine_pigs,3974000.0,A,Official value
+MMR,2001,swine_pigs,4261000.0,A,Official value
+MMR,2002,swine_pigs,4498680.0,A,Official value
+MMR,2003,swine_pigs,4840000.0,A,Official value
+MMR,2004,swine_pigs,5217000.0,A,Official value
+MMR,2005,swine_pigs,5677277.0,A,Official value
+MMR,2006,swine_pigs,6293129.0,A,Official value
+MMR,2007,swine_pigs,7006825.0,A,Official value
+MMR,2008,swine_pigs,7676712.0,A,Official value
+MMR,2009,swine_pigs,8496240.0,A,Official value
+MMR,2010,swine_pigs,9416208.0,A,Official value
+MMR,2011,swine_pigs,10497493.0,A,Official value
+MMR,2012,swine_pigs,11600000.0,A,Official value
+MMR,2013,swine_pigs,12566827.0,A,Official value
+MMR,2014,swine_pigs,13760958.0,A,Official value
+MMR,2015,swine_pigs,15055885.0,A,Official value
+MMR,2016,swine_pigs,16524336.0,A,Official value
+MMR,2017,swine_pigs,19273357.0,A,Official value
+MMR,2018,swine_pigs,6069098.0,A,Official value
+MMR,2019,swine_pigs,6428563.0,A,Official value
+MMR,2020,swine_pigs,6778694.0,A,Official value
+MMR,2021,swine_pigs,7337000.0,A,Official value
+MMR,2022,swine_pigs,7803000.0,A,Official value
+MMR,2023,swine_pigs,7800000.0,E,Estimated value
+MMR,2024,swine_pigs,7800000.0,E,Estimated value
+MMR,2000,turkeys,2000.0,E,Estimated value
+MMR,2001,turkeys,2000.0,E,Estimated value
+MMR,2002,turkeys,2000.0,E,Estimated value
+MMR,2003,turkeys,2000.0,E,Estimated value
+MMR,2004,turkeys,2000.0,E,Estimated value
+MMR,2005,turkeys,2000.0,I,Value imputed by a receiving agency
+MMR,2006,turkeys,2000.0,E,Estimated value
+MMR,2007,turkeys,2000.0,E,Estimated value
+MMR,2008,turkeys,2000.0,X,Value from external organization
+MMR,2009,turkeys,2000.0,X,Value from external organization
+MMR,2010,turkeys,3000.0,X,Value from external organization
+MMR,2011,turkeys,3000.0,E,Estimated value
+MMR,2012,turkeys,,M,Missing value; data cannot exist
+MMR,2013,turkeys,,M,Missing value; data cannot exist
+MMR,2014,turkeys,,M,Missing value; data cannot exist
+MMR,2015,turkeys,,M,Missing value; data cannot exist
+MMR,2016,turkeys,,M,Missing value; data cannot exist
+MMR,2017,turkeys,,M,Missing value; data cannot exist
+MMR,2018,turkeys,,M,Missing value; data cannot exist
+MMR,2019,turkeys,,M,Missing value; data cannot exist
+MMR,2020,turkeys,,M,Missing value; data cannot exist
+MMR,2021,turkeys,,M,Missing value; data cannot exist
+MMR,2022,turkeys,,M,Missing value; data cannot exist
+MMR,2023,turkeys,,M,Missing value; data cannot exist
+MMR,2024,turkeys,,M,Missing value; data cannot exist
+MYS,2000,chickens,123597000.0,A,Official value
+MYS,2001,chickens,148991000.0,A,Official value
+MYS,2002,chickens,170395000.0,A,Official value
+MYS,2003,chickens,183346000.0,A,Official value
+MYS,2004,chickens,191656000.0,A,Official value
+MYS,2005,chickens,174694000.0,A,Official value
+MYS,2006,chickens,179226000.0,A,Official value
+MYS,2007,chickens,188384000.0,A,Official value
+MYS,2008,chickens,198925000.0,A,Official value
+MYS,2009,chickens,201968000.0,A,Official value
+MYS,2010,chickens,217228000.0,A,Official value
+MYS,2011,chickens,232870000.0,A,Official value
+MYS,2012,chickens,251157000.0,A,Official value
+MYS,2013,chickens,274932000.0,A,Official value
+MYS,2014,chickens,280270000.0,A,Official value
+MYS,2015,chickens,286621000.0,A,Official value
+MYS,2016,chickens,289666000.0,A,Official value
+MYS,2017,chickens,293302000.0,A,Official value
+MYS,2018,chickens,260826000.0,A,Official value
+MYS,2019,chickens,285064000.0,A,Official value
+MYS,2020,chickens,293496000.0,A,Official value
+MYS,2021,chickens,285352000.0,A,Official value
+MYS,2022,chickens,299423000.0,A,Official value
+MYS,2023,chickens,316185000.0,A,Official value
+MYS,2024,chickens,326057000.0,A,Official value
+MYS,2000,ducks,5339000.0,A,Official value
+MYS,2001,ducks,6419000.0,A,Official value
+MYS,2002,ducks,6963000.0,A,Official value
+MYS,2003,ducks,8177000.0,A,Official value
+MYS,2004,ducks,7920000.0,A,Official value
+MYS,2005,ducks,8053000.0,A,Official value
+MYS,2006,ducks,8641000.0,A,Official value
+MYS,2007,ducks,8262000.0,A,Official value
+MYS,2008,ducks,6982000.0,A,Official value
+MYS,2009,ducks,8278000.0,A,Official value
+MYS,2010,ducks,8491000.0,A,Official value
+MYS,2011,ducks,9220000.0,A,Official value
+MYS,2012,ducks,9351000.0,A,Official value
+MYS,2013,ducks,9692000.0,A,Official value
+MYS,2014,ducks,9418000.0,A,Official value
+MYS,2015,ducks,9897000.0,A,Official value
+MYS,2016,ducks,9633000.0,A,Official value
+MYS,2017,ducks,9284000.0,A,Official value
+MYS,2018,ducks,9781000.0,A,Official value
+MYS,2019,ducks,9376000.0,A,Official value
+MYS,2020,ducks,9511000.0,A,Official value
+MYS,2021,ducks,9525000.0,A,Official value
+MYS,2022,ducks,9509000.0,A,Official value
+MYS,2023,ducks,9363000.0,A,Official value
+MYS,2024,ducks,9551000.0,A,Official value
+MYS,2000,swine_pigs,1894438.0,A,Official value
+MYS,2001,swine_pigs,1972532.0,A,Official value
+MYS,2002,swine_pigs,2047176.0,A,Official value
+MYS,2003,swine_pigs,2070686.0,A,Official value
+MYS,2004,swine_pigs,2110847.0,A,Official value
+MYS,2005,swine_pigs,2035647.0,A,Official value
+MYS,2006,swine_pigs,2029119.0,A,Official value
+MYS,2007,swine_pigs,2020117.0,A,Official value
+MYS,2008,swine_pigs,1988889.0,A,Official value
+MYS,2009,swine_pigs,1831308.0,A,Official value
+MYS,2010,swine_pigs,1922321.0,A,Official value
+MYS,2011,swine_pigs,1801247.0,A,Official value
+MYS,2012,swine_pigs,1851842.0,A,Official value
+MYS,2013,swine_pigs,2035971.0,A,Official value
+MYS,2014,swine_pigs,2188991.0,A,Official value
+MYS,2015,swine_pigs,1886823.0,A,Official value
+MYS,2016,swine_pigs,1654381.0,A,Official value
+MYS,2017,swine_pigs,1849351.0,A,Official value
+MYS,2018,swine_pigs,1967538.0,A,Official value
+MYS,2019,swine_pigs,1888460.0,A,Official value
+MYS,2020,swine_pigs,1869772.0,A,Official value
+MYS,2021,swine_pigs,1672995.0,A,Official value
+MYS,2022,swine_pigs,1502947.0,A,Official value
+MYS,2023,swine_pigs,1240224.0,A,Official value
+MYS,2024,swine_pigs,1234242.0,A,Official value
+PHL,2000,chickens,115187000.0,A,Official value
+PHL,2001,chickens,115606000.0,A,Official value
+PHL,2002,chickens,126831000.0,A,Official value
+PHL,2003,chickens,128216000.0,A,Official value
+PHL,2004,chickens,122010000.0,A,Official value
+PHL,2005,chickens,136001000.0,A,Official value
+PHL,2006,chickens,134332000.0,A,Official value
+PHL,2007,chickens,135640000.0,A,Official value
+PHL,2008,chickens,154272000.0,A,Official value
+PHL,2009,chickens,158663000.0,A,Official value
+PHL,2010,chickens,158984000.0,A,Official value
+PHL,2011,chickens,162813000.0,A,Official value
+PHL,2012,chickens,164192000.0,A,Official value
+PHL,2013,chickens,163386000.0,A,Official value
+PHL,2014,chickens,167671000.0,A,Official value
+PHL,2015,chickens,176469000.0,A,Official value
+PHL,2016,chickens,178793000.0,A,Official value
+PHL,2017,chickens,175317000.0,A,Official value
+PHL,2018,chickens,175772000.0,A,Official value
+PHL,2019,chickens,186370000.0,A,Official value
+PHL,2020,chickens,178265000.0,A,Official value
+PHL,2021,chickens,176820000.0,A,Official value
+PHL,2022,chickens,185102000.0,A,Official value
+PHL,2023,chickens,191203000.0,A,Official value
+PHL,2024,chickens,199831000.0,A,Official value
+PHL,2000,ducks,10000000.0,E,Estimated value
+PHL,2001,ducks,10000000.0,E,Estimated value
+PHL,2002,ducks,9911000.0,A,Official value
+PHL,2003,ducks,9807000.0,A,Official value
+PHL,2004,ducks,10211000.0,A,Official value
+PHL,2005,ducks,10439000.0,A,Official value
+PHL,2006,ducks,11147000.0,A,Official value
+PHL,2007,ducks,10162000.0,A,Official value
+PHL,2008,ducks,10508000.0,A,Official value
+PHL,2009,ducks,10577000.0,A,Official value
+PHL,2010,ducks,10268000.0,A,Official value
+PHL,2011,ducks,10126000.0,A,Official value
+PHL,2012,ducks,10011000.0,A,Official value
+PHL,2013,ducks,10135000.0,A,Official value
+PHL,2014,ducks,9886000.0,A,Official value
+PHL,2015,ducks,10067000.0,A,Official value
+PHL,2016,ducks,10519000.0,A,Official value
+PHL,2017,ducks,10842000.0,A,Official value
+PHL,2018,ducks,11220000.0,A,Official value
+PHL,2019,ducks,11577000.0,A,Official value
+PHL,2020,ducks,11794000.0,A,Official value
+PHL,2021,ducks,12512000.0,A,Official value
+PHL,2022,ducks,12000000.0,A,Official value
+PHL,2023,ducks,13519000.0,A,Official value
+PHL,2024,ducks,14028000.0,A,Official value
+PHL,2000,geese,330000.0,E,Estimated value
+PHL,2001,geese,330000.0,E,Estimated value
+PHL,2002,geese,330000.0,E,Estimated value
+PHL,2003,geese,330000.0,E,Estimated value
+PHL,2004,geese,380000.0,E,Estimated value
+PHL,2005,geese,420000.0,E,Estimated value
+PHL,2006,geese,400000.0,E,Estimated value
+PHL,2007,geese,400000.0,E,Estimated value
+PHL,2008,geese,400000.0,E,Estimated value
+PHL,2009,geese,400000.0,E,Estimated value
+PHL,2010,geese,400000.0,E,Estimated value
+PHL,2011,geese,400000.0,E,Estimated value
+PHL,2012,geese,400000.0,E,Estimated value
+PHL,2013,geese,400000.0,E,Estimated value
+PHL,2014,geese,400000.0,E,Estimated value
+PHL,2015,geese,401000.0,I,Value imputed by a receiving agency
+PHL,2016,geese,403000.0,I,Value imputed by a receiving agency
+PHL,2017,geese,405000.0,I,Value imputed by a receiving agency
+PHL,2018,geese,408000.0,I,Value imputed by a receiving agency
+PHL,2019,geese,410000.0,I,Value imputed by a receiving agency
+PHL,2020,geese,412000.0,I,Value imputed by a receiving agency
+PHL,2021,geese,415000.0,I,Value imputed by a receiving agency
+PHL,2022,geese,412000.0,I,Value imputed by a receiving agency
+PHL,2023,geese,413000.0,I,Value imputed by a receiving agency
+PHL,2024,geese,414000.0,I,Value imputed by a receiving agency
+PHL,2000,swine_pigs,10712900.0,A,Official value
+PHL,2001,swine_pigs,11063140.0,A,Official value
+PHL,2002,swine_pigs,11652700.0,A,Official value
+PHL,2003,swine_pigs,12364300.0,A,Official value
+PHL,2004,swine_pigs,12561690.0,A,Official value
+PHL,2005,swine_pigs,12139690.0,A,Official value
+PHL,2006,swine_pigs,13046680.0,A,Official value
+PHL,2007,swine_pigs,13459330.0,A,Official value
+PHL,2008,swine_pigs,13070120.0,A,Official value
+PHL,2009,swine_pigs,13596400.0,A,Official value
+PHL,2010,swine_pigs,13397800.0,A,Official value
+PHL,2011,swine_pigs,12303100.0,A,Official value
+PHL,2012,swine_pigs,11863021.0,A,Official value
+PHL,2013,swine_pigs,11843051.0,A,Official value
+PHL,2014,swine_pigs,11801656.0,A,Official value
+PHL,2015,swine_pigs,11999722.0,A,Official value
+PHL,2016,swine_pigs,12478711.0,A,Official value
+PHL,2017,swine_pigs,12427790.0,A,Official value
+PHL,2018,swine_pigs,12604441.0,A,Official value
+PHL,2019,swine_pigs,12709248.0,A,Official value
+PHL,2020,swine_pigs,12795721.0,A,Official value
+PHL,2021,swine_pigs,9943119.0,A,Official value
+PHL,2022,swine_pigs,9426092.0,A,Official value
+PHL,2023,swine_pigs,9765636.0,A,Official value
+PHL,2024,swine_pigs,9566230.0,A,Official value
+PHL,2000,turkeys,500000.0,E,Estimated value
+PHL,2001,turkeys,500000.0,E,Estimated value
+PHL,2002,turkeys,500000.0,E,Estimated value
+PHL,2003,turkeys,500000.0,E,Estimated value
+PHL,2004,turkeys,560000.0,E,Estimated value
+PHL,2005,turkeys,600000.0,E,Estimated value
+PHL,2006,turkeys,580000.0,E,Estimated value
+PHL,2007,turkeys,568000.0,E,Estimated value
+PHL,2008,turkeys,570000.0,E,Estimated value
+PHL,2009,turkeys,575000.0,E,Estimated value
+PHL,2010,turkeys,570000.0,E,Estimated value
+PHL,2011,turkeys,570000.0,E,Estimated value
+PHL,2012,turkeys,575000.0,E,Estimated value
+PHL,2013,turkeys,570000.0,E,Estimated value
+PHL,2014,turkeys,570000.0,E,Estimated value
+PHL,2015,turkeys,572000.0,I,Value imputed by a receiving agency
+PHL,2016,turkeys,575000.0,I,Value imputed by a receiving agency
+PHL,2017,turkeys,578000.0,I,Value imputed by a receiving agency
+PHL,2018,turkeys,581000.0,I,Value imputed by a receiving agency
+PHL,2019,turkeys,584000.0,I,Value imputed by a receiving agency
+PHL,2020,turkeys,586000.0,I,Value imputed by a receiving agency
+PHL,2021,turkeys,582000.0,I,Value imputed by a receiving agency
+PHL,2022,turkeys,581000.0,I,Value imputed by a receiving agency
+PHL,2023,turkeys,581000.0,I,Value imputed by a receiving agency
+PHL,2024,turkeys,581000.0,I,Value imputed by a receiving agency
+SGP,2000,chickens,2000000.0,E,Estimated value
+SGP,2001,chickens,2100000.0,E,Estimated value
+SGP,2002,chickens,2600000.0,E,Estimated value
+SGP,2003,chickens,2800000.0,E,Estimated value
+SGP,2004,chickens,2700000.0,E,Estimated value
+SGP,2005,chickens,2700000.0,E,Estimated value
+SGP,2006,chickens,2700000.0,E,Estimated value
+SGP,2007,chickens,3000000.0,E,Estimated value
+SGP,2008,chickens,3000000.0,E,Estimated value
+SGP,2009,chickens,3200000.0,E,Estimated value
+SGP,2010,chickens,3300000.0,E,Estimated value
+SGP,2011,chickens,3300000.0,E,Estimated value
+SGP,2012,chickens,3500000.0,E,Estimated value
+SGP,2013,chickens,3500000.0,E,Estimated value
+SGP,2014,chickens,3500000.0,E,Estimated value
+SGP,2015,chickens,3542000.0,I,Value imputed by a receiving agency
+SGP,2016,chickens,3602000.0,I,Value imputed by a receiving agency
+SGP,2017,chickens,3668000.0,I,Value imputed by a receiving agency
+SGP,2018,chickens,3737000.0,I,Value imputed by a receiving agency
+SGP,2019,chickens,3561000.0,I,Value imputed by a receiving agency
+SGP,2020,chickens,3273000.0,I,Value imputed by a receiving agency
+SGP,2021,chickens,2946000.0,I,Value imputed by a receiving agency
+SGP,2022,chickens,2500000.0,E,Estimated value
+SGP,2023,chickens,2260000.0,I,Value imputed by a receiving agency
+SGP,2024,chickens,3056000.0,I,Value imputed by a receiving agency
+SGP,2000,ducks,,M,Missing value; data cannot exist
+SGP,2001,ducks,,M,Missing value; data cannot exist
+SGP,2002,ducks,,M,Missing value; data cannot exist
+SGP,2003,ducks,,M,Missing value; data cannot exist
+SGP,2004,ducks,,M,Missing value; data cannot exist
+SGP,2005,ducks,,M,Missing value; data cannot exist
+SGP,2006,ducks,,M,Missing value; data cannot exist
+SGP,2007,ducks,,M,Missing value; data cannot exist
+SGP,2008,ducks,,M,Missing value; data cannot exist
+SGP,2009,ducks,,M,Missing value; data cannot exist
+SGP,2010,ducks,,M,Missing value; data cannot exist
+SGP,2011,ducks,,M,Missing value; data cannot exist
+SGP,2012,ducks,,M,Missing value; data cannot exist
+SGP,2013,ducks,,M,Missing value; data cannot exist
+SGP,2014,ducks,,M,Missing value; data cannot exist
+SGP,2015,ducks,,M,Missing value; data cannot exist
+SGP,2016,ducks,,M,Missing value; data cannot exist
+SGP,2017,ducks,,M,Missing value; data cannot exist
+SGP,2018,ducks,,M,Missing value; data cannot exist
+SGP,2019,ducks,,M,Missing value; data cannot exist
+SGP,2020,ducks,,M,Missing value; data cannot exist
+SGP,2021,ducks,,M,Missing value; data cannot exist
+SGP,2022,ducks,,M,Missing value; data cannot exist
+SGP,2023,ducks,,M,Missing value; data cannot exist
+SGP,2024,ducks,,M,Missing value; data cannot exist
+SGP,2000,swine_pigs,,M,Missing value; data cannot exist
+SGP,2001,swine_pigs,,M,Missing value; data cannot exist
+SGP,2002,swine_pigs,,M,Missing value; data cannot exist
+SGP,2003,swine_pigs,,M,Missing value; data cannot exist
+SGP,2004,swine_pigs,,M,Missing value; data cannot exist
+SGP,2005,swine_pigs,,M,Missing value; data cannot exist
+SGP,2006,swine_pigs,,M,Missing value; data cannot exist
+SGP,2007,swine_pigs,,M,Missing value; data cannot exist
+SGP,2008,swine_pigs,,M,Missing value; data cannot exist
+SGP,2009,swine_pigs,,M,Missing value; data cannot exist
+SGP,2010,swine_pigs,,M,Missing value; data cannot exist
+SGP,2011,swine_pigs,,M,Missing value; data cannot exist
+SGP,2012,swine_pigs,,M,Missing value; data cannot exist
+SGP,2013,swine_pigs,,M,Missing value; data cannot exist
+SGP,2014,swine_pigs,,M,Missing value; data cannot exist
+SGP,2015,swine_pigs,,M,Missing value; data cannot exist
+SGP,2016,swine_pigs,,M,Missing value; data cannot exist
+SGP,2017,swine_pigs,,M,Missing value; data cannot exist
+SGP,2018,swine_pigs,,M,Missing value; data cannot exist
+SGP,2019,swine_pigs,,M,Missing value; data cannot exist
+SGP,2020,swine_pigs,,M,Missing value; data cannot exist
+SGP,2021,swine_pigs,,M,Missing value; data cannot exist
+SGP,2022,swine_pigs,,M,Missing value; data cannot exist
+SGP,2023,swine_pigs,,M,Missing value; data cannot exist
+SGP,2024,swine_pigs,,M,Missing value; data cannot exist
+THA,2000,chickens,224726000.0,A,Official value
+THA,2001,chickens,232714000.0,A,Official value
+THA,2002,chickens,235233000.0,A,Official value
+THA,2003,chickens,241087000.0,A,Official value
+THA,2004,chickens,250955000.0,A,Official value
+THA,2005,chickens,187371000.0,A,Official value
+THA,2006,chickens,203201000.0,A,Official value
+THA,2007,chickens,209105000.0,A,Official value
+THA,2008,chickens,219150000.0,A,Official value
+THA,2009,chickens,228207000.0,A,Official value
+THA,2010,chickens,231918000.0,A,Official value
+THA,2011,chickens,240712000.0,A,Official value
+THA,2012,chickens,247202000.0,A,Official value
+THA,2013,chickens,259242000.0,A,Official value
+THA,2014,chickens,266962000.0,A,Official value
+THA,2015,chickens,272202000.0,I,Value imputed by a receiving agency
+THA,2016,chickens,276482000.0,I,Value imputed by a receiving agency
+THA,2017,chickens,270998000.0,E,Estimated value
+THA,2018,chickens,272699000.0,I,Value imputed by a receiving agency
+THA,2019,chickens,275892000.0,I,Value imputed by a receiving agency
+THA,2020,chickens,281153000.0,I,Value imputed by a receiving agency
+THA,2021,chickens,278876000.0,E,Estimated value
+THA,2022,chickens,283989000.0,E,Estimated value
+THA,2023,chickens,289612000.0,E,Estimated value
+THA,2024,chickens,295445000.0,E,Estimated value
+THA,2000,ducks,27884000.0,A,Official value
+THA,2001,ducks,28448000.0,A,Official value
+THA,2002,ducks,25034000.0,A,Official value
+THA,2003,ducks,23800000.0,A,Official value
+THA,2004,ducks,15649000.0,A,Official value
+THA,2005,ducks,21540000.0,A,Official value
+THA,2006,ducks,20843000.0,A,Official value
+THA,2007,ducks,24953000.0,A,Official value
+THA,2008,ducks,15931000.0,A,Official value
+THA,2009,ducks,16347000.0,A,Official value
+THA,2010,ducks,16361000.0,A,Official value
+THA,2011,ducks,16113000.0,A,Official value
+THA,2012,ducks,14890000.0,A,Official value
+THA,2013,ducks,15257000.0,A,Official value
+THA,2014,ducks,15222000.0,A,Official value
+THA,2015,ducks,15312000.0,I,Value imputed by a receiving agency
+THA,2016,ducks,15360000.0,I,Value imputed by a receiving agency
+THA,2017,ducks,15469000.0,I,Value imputed by a receiving agency
+THA,2018,ducks,15406000.0,I,Value imputed by a receiving agency
+THA,2019,ducks,16005000.0,I,Value imputed by a receiving agency
+THA,2020,ducks,15915000.0,I,Value imputed by a receiving agency
+THA,2021,ducks,16079000.0,I,Value imputed by a receiving agency
+THA,2022,ducks,16221000.0,I,Value imputed by a receiving agency
+THA,2023,ducks,16236000.0,I,Value imputed by a receiving agency
+THA,2024,ducks,16250000.0,I,Value imputed by a receiving agency
+THA,2000,geese,233000.0,A,Official value
+THA,2001,geese,250000.0,E,Estimated value
+THA,2002,geese,260000.0,E,Estimated value
+THA,2003,geese,260000.0,E,Estimated value
+THA,2004,geese,270000.0,E,Estimated value
+THA,2005,geese,231000.0,A,Official value
+THA,2006,geese,156000.0,A,Official value
+THA,2007,geese,176000.0,A,Official value
+THA,2008,geese,96000.0,A,Official value
+THA,2009,geese,132000.0,A,Official value
+THA,2010,geese,204000.0,A,Official value
+THA,2011,geese,217000.0,A,Official value
+THA,2012,geese,232000.0,A,Official value
+THA,2013,geese,113000.0,A,Official value
+THA,2014,geese,100000.0,A,Official value
+THA,2015,geese,90000.0,E,Estimated value
+THA,2016,geese,86000.0,I,Value imputed by a receiving agency
+THA,2017,geese,82000.0,I,Value imputed by a receiving agency
+THA,2018,geese,87000.0,E,Estimated value
+THA,2019,geese,84000.0,I,Value imputed by a receiving agency
+THA,2020,geese,83000.0,E,Estimated value
+THA,2021,geese,78000.0,E,Estimated value
+THA,2022,geese,71000.0,E,Estimated value
+THA,2023,geese,63000.0,E,Estimated value
+THA,2024,geese,54000.0,E,Estimated value
+THA,2000,swine_pigs,6558147.0,A,Official value
+THA,2001,swine_pigs,6688904.0,A,Official value
+THA,2002,swine_pigs,6878642.0,A,Official value
+THA,2003,swine_pigs,7064196.0,A,Official value
+THA,2004,swine_pigs,7254057.0,A,Official value
+THA,2005,swine_pigs,7533690.0,A,Official value
+THA,2006,swine_pigs,7688137.0,A,Official value
+THA,2007,swine_pigs,8381122.0,A,Official value
+THA,2008,swine_pigs,7845346.0,A,Official value
+THA,2009,swine_pigs,7480530.0,A,Official value
+THA,2010,swine_pigs,7623730.0,A,Official value
+THA,2011,swine_pigs,7785525.0,A,Official value
+THA,2012,swine_pigs,7824421.0,A,Official value
+THA,2013,swine_pigs,7605891.0,A,Official value
+THA,2014,swine_pigs,7591530.0,A,Official value
+THA,2015,swine_pigs,7633877.0,I,Value imputed by a receiving agency
+THA,2016,swine_pigs,7680117.0,I,Value imputed by a receiving agency
+THA,2017,swine_pigs,7740088.0,I,Value imputed by a receiving agency
+THA,2018,swine_pigs,7789624.0,I,Value imputed by a receiving agency
+THA,2019,swine_pigs,7820731.0,I,Value imputed by a receiving agency
+THA,2020,swine_pigs,7848826.0,I,Value imputed by a receiving agency
+THA,2021,swine_pigs,7879613.0,I,Value imputed by a receiving agency
+THA,2022,swine_pigs,7852721.0,I,Value imputed by a receiving agency
+THA,2023,swine_pigs,7859968.0,I,Value imputed by a receiving agency
+THA,2024,swine_pigs,7867214.0,I,Value imputed by a receiving agency
+TLS,2000,chickens,1000000.0,E,Estimated value
+TLS,2001,chickens,1000000.0,E,Estimated value
+TLS,2002,chickens,800000.0,E,Estimated value
+TLS,2003,chickens,600000.0,E,Estimated value
+TLS,2004,chickens,659000.0,A,Official value
+TLS,2005,chickens,685000.0,A,Official value
+TLS,2006,chickens,713000.0,A,Official value
+TLS,2007,chickens,741000.0,A,Official value
+TLS,2008,chickens,771000.0,A,Official value
+TLS,2009,chickens,801000.0,A,Official value
+TLS,2010,chickens,702000.0,A,Official value
+TLS,2011,chickens,740000.0,A,Official value
+TLS,2012,chickens,779000.0,A,Official value
+TLS,2013,chickens,820000.0,A,Official value
+TLS,2014,chickens,864000.0,A,Official value
+TLS,2015,chickens,929000.0,A,Official value
+TLS,2016,chickens,936000.0,I,Value imputed by a receiving agency
+TLS,2017,chickens,950000.0,E,Estimated value
+TLS,2018,chickens,938000.0,E,Estimated value
+TLS,2019,chickens,1146000.0,A,Official value
+TLS,2020,chickens,971000.0,I,Value imputed by a receiving agency
+TLS,2021,chickens,856000.0,A,Official value
+TLS,2022,chickens,1004000.0,E,Estimated value
+TLS,2023,chickens,657000.0,I,Value imputed by a receiving agency
+TLS,2024,chickens,571000.0,I,Value imputed by a receiving agency
+TLS,2000,swine_pigs,290000.0,E,Estimated value
+TLS,2001,swine_pigs,338837.0,A,Official value
+TLS,2002,swine_pigs,340000.0,E,Estimated value
+TLS,2003,swine_pigs,340000.0,E,Estimated value
+TLS,2004,swine_pigs,331895.0,A,Official value
+TLS,2005,swine_pigs,345171.0,A,Official value
+TLS,2006,swine_pigs,358978.0,A,Official value
+TLS,2007,swine_pigs,373337.0,A,Official value
+TLS,2008,swine_pigs,388270.0,A,Official value
+TLS,2009,swine_pigs,403218.0,A,Official value
+TLS,2010,swine_pigs,330435.0,A,Official value
+TLS,2011,swine_pigs,345635.0,A,Official value
+TLS,2012,swine_pigs,363954.0,A,Official value
+TLS,2013,swine_pigs,383243.0,A,Official value
+TLS,2014,swine_pigs,403555.0,A,Official value
+TLS,2015,swine_pigs,419169.0,A,Official value
+TLS,2016,swine_pigs,421067.0,I,Value imputed by a receiving agency
+TLS,2017,swine_pigs,391871.0,I,Value imputed by a receiving agency
+TLS,2018,swine_pigs,389242.0,I,Value imputed by a receiving agency
+TLS,2019,swine_pigs,453444.0,A,Official value
+TLS,2020,swine_pigs,374660.0,I,Value imputed by a receiving agency
+TLS,2021,swine_pigs,246629.0,A,Official value
+TLS,2022,swine_pigs,358257.0,I,Value imputed by a receiving agency
+TLS,2023,swine_pigs,385048.0,I,Value imputed by a receiving agency
+TLS,2024,swine_pigs,385128.0,I,Value imputed by a receiving agency
+VNM,2000,chickens,152310000.0,A,Official value
+VNM,2001,chickens,159451000.0,A,Official value
+VNM,2002,chickens,163100000.0,X,Value from external organization
+VNM,2003,chickens,178227000.0,A,Official value
+VNM,2004,chickens,152706000.0,A,Official value
+VNM,2005,chickens,153937000.0,A,Official value
+VNM,2006,chickens,150220000.0,A,Official value
+VNM,2007,chickens,158200000.0,A,Official value
+VNM,2008,chickens,173110000.0,A,Official value
+VNM,2009,chickens,200000000.0,A,Official value
+VNM,2010,chickens,218201000.0,A,Official value
+VNM,2011,chickens,225820000.0,A,Official value
+VNM,2012,chickens,223746000.0,A,Official value
+VNM,2013,chickens,234509000.0,A,Official value
+VNM,2014,chickens,245978000.0,A,Official value
+VNM,2015,chickens,259295000.0,A,Official value
+VNM,2016,chickens,277189000.0,A,Official value
+VNM,2017,chickens,295209000.0,A,Official value
+VNM,2018,chickens,316916000.0,A,Official value
+VNM,2019,chickens,382597000.0,A,Official value
+VNM,2020,chickens,409500000.0,A,Official value
+VNM,2021,chickens,427059000.0,I,Value imputed by a receiving agency
+VNM,2022,chickens,446540000.0,A,Official value
+VNM,2023,chickens,457221000.0,A,Official value
+VNM,2024,chickens,481033000.0,A,Official value
+VNM,2000,ducks,58800000.0,X,Value from external organization
+VNM,2001,ducks,65430000.0,X,Value from external organization
+VNM,2002,ducks,69900000.0,X,Value from external organization
+VNM,2003,ducks,76383000.0,A,Official value
+VNM,2004,ducks,65446000.0,A,Official value
+VNM,2005,ducks,65973000.0,A,Official value
+VNM,2006,ducks,64380000.0,A,Official value
+VNM,2007,ducks,67800000.0,A,Official value
+VNM,2008,ducks,75190000.0,A,Official value
+VNM,2009,ducks,72566000.0,A,Official value
+VNM,2010,ducks,68633000.0,A,Official value
+VNM,2011,ducks,96780000.0,A,Official value
+VNM,2012,ducks,84715000.0,A,Official value
+VNM,2013,ducks,69137000.0,A,Official value
+VNM,2014,ducks,68507000.0,A,Official value
+VNM,2015,ducks,69547000.0,A,Official value
+VNM,2016,ducks,71286000.0,A,Official value
+VNM,2017,ducks,74948000.0,A,Official value
+VNM,2018,ducks,76911000.0,A,Official value
+VNM,2019,ducks,82536000.0,A,Official value
+VNM,2020,ducks,86563000.0,A,Official value
+VNM,2021,ducks,82003000.0,E,Estimated value
+VNM,2022,ducks,86003000.0,A,Official value
+VNM,2023,ducks,87645000.0,A,Official value
+VNM,2024,ducks,88185000.0,A,Official value
+VNM,2000,swine_pigs,20193794.0,A,Official value
+VNM,2001,swine_pigs,21799988.0,A,Official value
+VNM,2002,swine_pigs,23169532.0,A,Official value
+VNM,2003,swine_pigs,24884600.0,A,Official value
+VNM,2004,swine_pigs,26143728.0,A,Official value
+VNM,2005,swine_pigs,27434896.0,A,Official value
+VNM,2006,swine_pigs,26855300.0,A,Official value
+VNM,2007,swine_pigs,26560700.0,A,Official value
+VNM,2008,swine_pigs,26701600.0,A,Official value
+VNM,2009,swine_pigs,27627700.0,A,Official value
+VNM,2010,swine_pigs,27373300.0,A,Official value
+VNM,2011,swine_pigs,27056000.0,A,Official value
+VNM,2012,swine_pigs,26493922.0,A,Official value
+VNM,2013,swine_pigs,26264408.0,A,Official value
+VNM,2014,swine_pigs,26761400.0,A,Official value
+VNM,2015,swine_pigs,27750700.0,A,Official value
+VNM,2016,swine_pigs,29075315.0,A,Official value
+VNM,2017,swine_pigs,27406739.0,A,Official value
+VNM,2018,swine_pigs,28151948.0,A,Official value
+VNM,2019,swine_pigs,19615526.0,A,Official value
+VNM,2020,swine_pigs,22027858.0,A,Official value
+VNM,2021,swine_pigs,23202782.0,A,Official value
+VNM,2022,swine_pigs,24745382.0,A,Official value
+VNM,2023,swine_pigs,25546030.0,A,Official value
+VNM,2024,swine_pigs,26519409.0,A,Official value
